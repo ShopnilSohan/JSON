@@ -1,20 +1,5 @@
 [{
-      'name':'product one',
-      'price': 1020,
-      'description': 'One of the best product',
+      "name":"nais",
+      "price": 1020,
     },
-   {
-     'name':'product 2',
-     'price': 100,
-     'description': 'One of the best product',
-   },
-   {
-     'name':'product 3',
-     'price': 100,
-     'description': 'One of the best product',
-   },
-   {
-     'name':'product four ',
-     'price': 020,
-     'description': 'One of the best product',
-   }]
+  ]
